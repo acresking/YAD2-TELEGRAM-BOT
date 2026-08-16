@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+.env.local
+*.cookie
+
+# Database & State
+bot_database.db
+bot_database.db-journal
+
+# Python Virtual Environment & Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & Editor
+.vscode/
+.idea/
